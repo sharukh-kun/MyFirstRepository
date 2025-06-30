@@ -1,7 +1,10 @@
 #this is my second file made from a branch
-#Add three numbers
+#Add four numbers
 a = int(input("enter first number"))
 b = int(input("enter second number"))
 c= int(input("Enter the third number"))
-sum = a+b+c
+d = int(input("enter the fourth number"))
+
+sum = a+b+c+d+4
+
 print(sum)
